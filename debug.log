@@ -1,0 +1,272 @@
+[0321/101555:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101555:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101555:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101555:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101555:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/101555:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101555:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101555:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101555:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101557:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101557:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101557:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101557:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101557:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/101611:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101611:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101611:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101611:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101611:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/101611:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101611:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101611:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101611:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101613:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101613:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101613:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101613:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101613:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/101740:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101740:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101740:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101740:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101740:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/101740:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101740:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101740:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101740:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101742:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/101742:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/101742:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/101742:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/101742:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103052:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103052:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103052:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103052:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103052:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103052:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103052:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103052:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103052:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103054:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103054:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103054:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103054:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103054:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103103:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103103:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103103:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103103:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103103:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103103:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103103:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103103:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103103:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103105:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103105:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103105:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103105:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103105:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103205:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103205:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103205:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103205:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103205:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103315:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103315:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103315:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103315:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103315:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103315:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103315:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103315:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103315:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103317:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103317:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103317:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103317:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103317:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103344:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103344:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103344:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103344:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103344:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103344:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103344:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103344:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103344:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103345:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103345:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103345:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103345:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103345:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103346:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103346:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103346:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103346:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103346:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103501:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103501:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103501:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103501:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103501:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103501:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103501:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103501:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103501:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103503:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103503:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103503:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103503:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103503:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103527:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103527:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103527:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103527:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103527:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103534:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103534:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103534:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103534:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103534:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103534:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103534:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103534:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103534:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103537:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103537:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103537:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103537:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103537:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103541:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103541:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103541:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103541:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103541:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103541:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103541:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103541:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103541:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103542:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103542:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103542:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103542:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103542:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103735:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103735:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103735:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103735:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103735:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103735:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103735:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103735:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103735:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103737:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103737:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103737:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103737:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103737:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103739:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103739:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103739:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103739:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103739:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103811:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103811:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103811:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103811:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103811:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103811:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103811:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103811:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103811:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103813:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103813:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103813:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103813:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103813:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103818:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103818:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103818:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103818:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103818:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103818:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103818:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103818:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103818:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103820:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103820:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103820:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103820:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103820:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/103949:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103949:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103949:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103949:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103949:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/103949:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103949:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103949:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103949:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103951:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/103951:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/103951:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/103951:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/103951:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/104009:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104009:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104009:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104009:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104009:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/104009:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104009:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104009:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104009:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104011:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104011:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104011:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104011:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104011:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/104024:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104024:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104024:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104024:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104024:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/104024:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104024:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104024:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104024:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104026:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104026:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104026:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104026:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104026:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/104332:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104332:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104332:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104332:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104332:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/104332:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104332:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104332:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104332:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104334:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/104334:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/104334:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/104334:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/104334:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0321/105101:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/105101:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/105101:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/105101:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/105101:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0321/105101:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/105101:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/105101:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/105101:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/105102:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0321/105102:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0321/105102:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0321/105102:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0321/105102:ERROR:renderer_main.cc(207)] Running without renderer sandbox

@@ -1,0 +1,12 @@
+Epoch -  1 Accuracy 50.642% loss 0.472874
+Epoch -  2 Accuracy 50.642% loss 0.465245
+Epoch -  3 Accuracy 50.700% loss 0.434381
+Epoch -  4 Accuracy 50.642% loss 0.542827
+Epoch -  5 Accuracy 50.642% loss 0.474652
+Epoch -  6 Accuracy 50.927% loss 0.477665
+Epoch -  7 Accuracy 50.320% loss 0.568225
+Epoch -  8 Accuracy 50.642% loss 0.513030
+Epoch -  9 Accuracy 50.642% loss 0.517201
+Epoch - 10 Accuracy 50.642% loss 0.515239
+Epoch - 11 Accuracy 50.706% loss 0.361559
+Epoch - 12 Accuracy 51.269% loss 0.386698
